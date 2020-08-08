@@ -780,7 +780,7 @@ def seventh_graph():
                 ]),
                 showactive=True,
                 y=0.95,
-                x=0.12,
+                x=0.14,
                 font=dict(
                     family="Arial",
                     size=14,
