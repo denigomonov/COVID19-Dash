@@ -17,5 +17,9 @@ For the development of this project I had to make sure that I'll be retrieving d
 - Creating dynamic custom visualizations each tailored to tell a different aspect of the problem
 - Establishing inline beta-dashboard and testing flow and significance of material created
 
+![ezgif com-resize](https://user-images.githubusercontent.com/34199193/89116356-47d0bd80-d461-11ea-8d8a-21cde54fd210.gif)
 ### Deployment (Atom, Heroku):
-- 
+- Finilizing deployment version of the dashboard by doing some minor fixes and adding styling CSS sheet
+- Establishing connection via Heroku CLI and GitHub and launching Dashboard App
+
+(ADD APP GIF Here and URL)
