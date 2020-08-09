@@ -22,4 +22,6 @@ For the development of this project I had to make sure that I'll be retrieving d
 - Finilizing deployment version of the dashboard by doing some minor fixes, adding styling sheet, req file, etc.
 - Establishing connection via Heroku CLI and GitHub and launching Dashboard App
 
-(ADD APP GIF Here and URL)
+View **COVID19-Dash** on [Heroku](https://covid-19-pdash.herokuapp.com/)
+
+<img src="https://user-images.githubusercontent.com/34199193/89723538-d5625f00-d9c5-11ea-9243-4aa8f7dc824c.gif" width="600">
