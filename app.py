@@ -737,7 +737,8 @@ def seventh_graph():
         z = virus_total_cases_all_df.Cases,
         locationmode = 'USA-states',
         colorscale = state_case_colors,
-        marker_line_color='rgb(255,255,255)'
+        marker_line_color='rgb(255,255,255)',
+        name=''
     ))
     fig_map.add_trace(go.Choropleth(
         locations=virus_total_deaths_all_df.State,
@@ -745,6 +746,7 @@ def seventh_graph():
         locationmode = 'USA-states',
         colorscale = state_death_colors,
         marker_line_color='rgb(255,255,255)',
+        name='',
         visible=False
     ))
 
@@ -780,7 +782,7 @@ def seventh_graph():
                 ]),
                 showactive=True,
                 y=0.95,
-                x=0.14,
+                x=0.15,
                 font=dict(
                     family="Arial",
                     size=14,
